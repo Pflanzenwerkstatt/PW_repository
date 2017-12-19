@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -51,7 +51,7 @@ div.menu {
 background-color: #00b200;
     overflow: auto;
     white-space: nowrap;
-	width: 100%; !important
+	  width: 100%; 
 }
 
 div.menu a {
